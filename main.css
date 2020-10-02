@@ -268,13 +268,55 @@ body {
 }
 
 .flip-card-back {
-  background-color: #2980b9;
+  background-color: #333;
   color: white;
   transform: rotateY(180deg);
 }
 
+.flip-card a {
+  color:white;
+}
 
+/* BLOG1 CSS */
+.header1 {
 
+  text-align: center;
+  padding:20px;
+  background-color:rgba(44, 44, 44, 0.89);
+  color: #f2f2f2;
+
+}
+
+.para1 {
+
+  margin:6%;
+  font-size: large;
+  color:rgba(44, 44, 44, 0.89);
+
+}
+
+/* BLOG1 CSS */
+.header2 {
+
+  text-align: center;
+  padding:20px;
+  background-color:rgba(44, 44, 44, 0.89);
+  color: #f2f2f2;
+
+}
+
+.para2 {
+
+  margin:6%;
+  font-size: large;
+  color:rgba(44, 44, 44, 0.89);
+
+}
+
+.video {
+  text-align: center;
+  margin:45px;
+}
 
 
 
